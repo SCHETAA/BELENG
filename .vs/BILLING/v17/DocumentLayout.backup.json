@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\password.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\password.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\password.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\password.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BILLING||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|c:\\users\\scheta\\desktop\\final-billing-main\\billing\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\modify.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\modify.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\username.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\username.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|c:\\users\\scheta\\desktop\\final-billing-main\\billing\\stallinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\stallinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\stallinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\stallinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\stalls.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\stalls.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|c:\\users\\scheta\\desktop\\final-billing-main\\billing\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\billreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\billreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\tap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\tap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\tap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\tap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\accregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\accregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\accregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\accregister.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\usermanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\usermanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\usermanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\usermanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\tenant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\tenant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\username.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\username.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\stalls.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\stalls.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\transac.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\transac.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\transac.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\transac.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\tenant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\tenant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\name.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\name.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\billing\\modify.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|solutionrelative:billing\\modify.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB861F8-14C9-4844-A4C5-AC14F16E3BD4}|BILLING\\BILLING.vbproj|c:\\users\\scheta\\desktop\\final-billing-main\\billing\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\packages.config",
+              "RelativeDocumentMoniker": "BILLING\\packages.config",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\packages.config",
+              "RelativeToolTip": "BILLING\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-06T16:16:20.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SETTINGS.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\SETTINGS.vb",
+              "RelativeDocumentMoniker": "BILLING\\SETTINGS.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\SETTINGS.vb [Design]",
+              "RelativeToolTip": "BILLING\\SETTINGS.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T08:38:45.654Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "USERNAME.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\USERNAME.vb",
+              "RelativeDocumentMoniker": "BILLING\\USERNAME.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\USERNAME.vb [Design]",
+              "RelativeToolTip": "BILLING\\USERNAME.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T03:41:57.873Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MODIFY.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\MODIFY.vb",
+              "RelativeDocumentMoniker": "BILLING\\MODIFY.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\MODIFY.vb [Design]",
+              "RelativeToolTip": "BILLING\\MODIFY.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T05:17:34.794Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PASSWORD.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\PASSWORD.vb",
+              "RelativeDocumentMoniker": "BILLING\\PASSWORD.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\PASSWORD.vb [Design]",
+              "RelativeToolTip": "BILLING\\PASSWORD.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T03:42:42.602Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BILLING",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\BILLING.vbproj",
+              "RelativeDocumentMoniker": "BILLING\\BILLING.vbproj",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\BILLING.vbproj",
+              "RelativeToolTip": "BILLING\\BILLING.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-13T03:03:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PASSWORD.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\PASSWORD.vb",
+              "RelativeDocumentMoniker": "BILLING\\PASSWORD.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\PASSWORD.vb",
+              "RelativeToolTip": "BILLING\\PASSWORD.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T06:35:23.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "STALLINFO.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\STALLINFO.vb",
+              "RelativeDocumentMoniker": "BILLING\\STALLINFO.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\STALLINFO.vb",
+              "RelativeToolTip": "BILLING\\STALLINFO.vb",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-06T15:35:44.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "STALLINFO.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\STALLINFO.vb",
+              "RelativeDocumentMoniker": "BILLING\\STALLINFO.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\STALLINFO.vb [Design]",
+              "RelativeToolTip": "BILLING\\STALLINFO.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:09:38.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PAYMENT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\PAYMENT.vb",
+              "RelativeDocumentMoniker": "BILLING\\PAYMENT.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\PAYMENT.vb [Design]",
+              "RelativeToolTip": "BILLING\\PAYMENT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:12:57.921Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "STALLS.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\STALLS.vb",
+              "RelativeDocumentMoniker": "BILLING\\STALLS.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\STALLS.vb [Design]",
+              "RelativeToolTip": "BILLING\\STALLS.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:12:59.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BILLREPORT.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\BILLREPORT.rdlc",
+              "RelativeDocumentMoniker": "BILLING\\BILLREPORT.rdlc",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\BILLREPORT.rdlc [Design]",
+              "RelativeToolTip": "BILLING\\BILLREPORT.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-15T07:50:19.324Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "REPORT.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\REPORT.vb",
+              "RelativeDocumentMoniker": "BILLING\\REPORT.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\REPORT.vb",
+              "RelativeToolTip": "BILLING\\REPORT.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-19T06:46:40.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SETTINGS.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\SETTINGS.vb",
+              "RelativeDocumentMoniker": "BILLING\\SETTINGS.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\SETTINGS.vb",
+              "RelativeToolTip": "BILLING\\SETTINGS.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T03:39:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "REPORT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\REPORT.vb",
+              "RelativeDocumentMoniker": "BILLING\\REPORT.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\REPORT.vb [Design]",
+              "RelativeToolTip": "BILLING\\REPORT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T08:38:26.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "USERNAME.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\USERNAME.vb",
+              "RelativeDocumentMoniker": "BILLING\\USERNAME.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\USERNAME.vb",
+              "RelativeToolTip": "BILLING\\USERNAME.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-22T03:22:14.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PAYMENT.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\PAYMENT.vb",
+              "RelativeDocumentMoniker": "BILLING\\PAYMENT.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\PAYMENT.vb",
+              "RelativeToolTip": "BILLING\\PAYMENT.vb",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T03:05:13.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ACCREGISTER.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\ACCREGISTER.vb",
+              "RelativeDocumentMoniker": "BILLING\\ACCREGISTER.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\ACCREGISTER.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\ACCREGISTER.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T07:00:47.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\Form1.vb",
+              "RelativeDocumentMoniker": "BILLING\\Form1.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\Form1.vb [Design]",
+              "RelativeToolTip": "BILLING\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:00:21.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ACCREGISTER.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\ACCREGISTER.vb",
+              "RelativeDocumentMoniker": "BILLING\\ACCREGISTER.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\ACCREGISTER.vb",
+              "RelativeToolTip": "BILLING\\ACCREGISTER.vb",
+              "ViewState": "AQIAADgAAAAAAAAAAADwv0IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T07:44:02.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\Register.vb",
+              "RelativeDocumentMoniker": "BILLING\\Register.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\Register.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\Register.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:12:56.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tap.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\tap.vb",
+              "RelativeDocumentMoniker": "BILLING\\tap.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\tap.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\tap.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:03:48.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\Form1.vb",
+              "RelativeDocumentMoniker": "BILLING\\Form1.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\Form1.vb",
+              "RelativeToolTip": "BILLING\\Form1.vb",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwHUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T06:23:41.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Usermanagement.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\Usermanagement.vb",
+              "RelativeDocumentMoniker": "BILLING\\Usermanagement.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\Usermanagement.vb",
+              "RelativeToolTip": "BILLING\\Usermanagement.vb",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwHgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:27:50.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Usermanagement.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\Usermanagement.vb",
+              "RelativeDocumentMoniker": "BILLING\\Usermanagement.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\Usermanagement.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\Usermanagement.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:27:49.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CONNECTION.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\CONNECTION.vb",
+              "RelativeDocumentMoniker": "BILLING\\CONNECTION.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\CONNECTION.vb",
+              "RelativeToolTip": "BILLING\\CONNECTION.vb",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T03:32:04.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "STALLS.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\STALLS.vb",
+              "RelativeDocumentMoniker": "BILLING\\STALLS.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\STALLS.vb",
+              "RelativeToolTip": "BILLING\\STALLS.vb",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:13:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "BILLING\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\DataSet1.xsd",
+              "RelativeToolTip": "BILLING\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-19T02:51:26.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TRANSAC.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\TRANSAC.vb",
+              "RelativeDocumentMoniker": "BILLING\\TRANSAC.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\TRANSAC.vb",
+              "RelativeToolTip": "BILLING\\TRANSAC.vb",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwE4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T08:27:45.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tap.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\tap.vb",
+              "RelativeDocumentMoniker": "BILLING\\tap.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\tap.vb",
+              "RelativeToolTip": "BILLING\\tap.vb",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowD8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:03:50.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TRANSAC.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\TRANSAC.vb",
+              "RelativeDocumentMoniker": "BILLING\\TRANSAC.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\TRANSAC.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\TRANSAC.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T08:21:29.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TENANT.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\TENANT.vb",
+              "RelativeDocumentMoniker": "BILLING\\TENANT.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\TENANT.vb",
+              "RelativeToolTip": "BILLING\\TENANT.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:20:18.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NAME.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\NAME.vb",
+              "RelativeDocumentMoniker": "BILLING\\NAME.vb",
+              "ToolTip": "C:\\Users\\crazy\\Downloads\\BILLING2-main\\BILLING2-main\\BILLING\\NAME.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\crazy\\Downloads\\BILLING2-main\\BILLING2-main\\BILLING\\NAME.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T03:41:29.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TENANT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\TENANT.vb",
+              "RelativeDocumentMoniker": "BILLING\\TENANT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\TENANT.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\crazy\\OneDrive\\Desktop\\FINAL-BILLING\\BILLING\\TENANT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T03:14:50.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MODIFY.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\MODIFY.vb",
+              "RelativeDocumentMoniker": "BILLING\\MODIFY.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\MODIFY.vb",
+              "RelativeToolTip": "BILLING\\MODIFY.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvykAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T05:33:25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.vb",
+              "DocumentMoniker": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\Register.vb",
+              "RelativeDocumentMoniker": "BILLING\\Register.vb",
+              "ToolTip": "C:\\Users\\SCHETA\\Desktop\\FINAL-BILLING-main\\BILLING\\Register.vb",
+              "RelativeToolTip": "BILLING\\Register.vb",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAuwGUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-13T05:33:50.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
